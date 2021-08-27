@@ -9,7 +9,8 @@ Soy un Ingeniero de Sonido apasionado por la programación web y el cosmos de la
 Tengo experiencia en el desarrollo de Aplicaciones Web, en las que implementado diversas tecnologías que aprendí a lo largo de mi pregrado en Ingeniería de Sonido y en el Bootcamp de desarrollo Web de la academia de programación Henry.
 
 
-```const aboutMe = {
+```javascript
+const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS, Python],
    technologies: {
