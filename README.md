@@ -31,7 +31,9 @@ const aboutMe = {
 - 🌱 Actualmente estoy aprendiendo TypeScript, Angular y Python. 
 
 
-
+## :keyboard: Technical Skills 
+#
+![Technical Skills](./images/Technical_skills.png)
 
 <!---
 dayromartinez/dayromartinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
