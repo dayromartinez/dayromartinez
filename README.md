@@ -31,8 +31,8 @@ const aboutMe = {
 - 🌱 Actualmente estoy aprendiendo TypeScript, Angular y Python. 
 
 
-## :keyboard: Technical Skills 
-#
+## :computer:   Technical Skills 
+
 ![Technical Skills](./images/Technical_skills.png)
 
 <!---
