@@ -36,10 +36,14 @@ const aboutMe = {
 ![Technical Skills](./images/Technical_skills.png)
 
 
-## Plugins
+## Estadísticas
 
 <p align="center">
     <img align="center" alt="Dayro Martinez GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dayromartinez&show_icons=true&count_private=true" />
+</p>
+
+<p align="center">
+    <img align="center" alt="Dayro Martinez GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayromartinez&layout=compact" />
 </p>
 
 <!---
